@@ -29,7 +29,7 @@ function Wedding() {
       <div className="mt-[16px] mb-[20px] h-16 w-40 flex flex-row justify-around items-center text-center">
         <img src={logo2} alt="logo2" className="h-11 w-44" />
       </div>
-      <motion.div className="grid grid-cols-3 grid-flow-row gap-4 w-2/3">
+      <motion.div className="grid grid-cols-3 grid-flow-row gap-4 w-2/3 max-[1000px]:grid-cols-1">
         {data.map((item) => {
           const { id, title, url, description } = item;
           return (
