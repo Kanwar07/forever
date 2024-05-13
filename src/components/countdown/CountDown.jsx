@@ -35,7 +35,7 @@ function CountDown() {
         <img
           src="https://demo.dethemes.com/forever/versions/top-bottom-bar/images/parallax-image-1a.jpg"
           alt="nature"
-          className="w-screen h-[36rem] brightness-[0.75]"
+          className="w-full h-[36rem] brightness-[0.75]"
         />
       </div>
     </div>

@@ -28,7 +28,7 @@ const Introduction = () => {
       <div className="m-4 h-16 w-40 flex flex-row justify-around items-center text-center">
         <img src={logo2} alt="logo2" className="h-11 w-44" />
       </div>
-      <div className=" flex flex-row w-screen justify-center mt-8">
+      <div className=" flex flex-row w-full justify-center mt-8">
         <motion.div
           initial={{ x: -50, opacity: 0 }}
           whileInView={{ opacity: 1, x: 0 }}

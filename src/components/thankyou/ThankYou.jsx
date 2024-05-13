@@ -10,7 +10,7 @@ function ThankYou() {
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 1 }}
         viewport={{ once: true }}
-        className="absolute z-10 flex flex-col justify-center items-center text-center w-screen h-[38rem]"
+        className="absolute z-10 flex flex-col justify-center items-center text-center w-full h-[38rem]"
       >
         <div className="-rotate-12 text-[55px] w-64 text-[#ffffff] leading-none">
           Thank You
@@ -26,7 +26,7 @@ function ThankYou() {
         <img
           src="https://demo.dethemes.com/forever/versions/top-bottom-bar/images/slide-image-1920-h.jpg"
           alt="thankyou"
-          className="w-screen h-[38rem] brightness-[0.75]"
+          className="w-full h-[38rem] brightness-[0.75]"
         />
       </div>
     </div>

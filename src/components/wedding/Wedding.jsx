@@ -6,7 +6,7 @@ import logo2 from "../../assets/logo2.png";
 
 function Wedding() {
   return (
-    <div className="w-screen pt-[140px] pb-[80px] flex flex-col justify-center items-center">
+    <div className="w-full pt-[140px] pb-[80px] flex flex-col justify-center items-center">
       <motion.div
         initial={{ y: 50, opacity: 0 }}
         whileInView={{ y: 0, opacity: 1 }}
