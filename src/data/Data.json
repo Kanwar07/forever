@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "LOCATION",
+    "url": "https://demo.dethemes.com/forever/versions/top-bottom-bar/images/the-wedding-1a.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non"
+  },
+  {
+    "id": 2,
+    "title": "GIFT REGISTRY",
+    "url": "https://demo.dethemes.com/forever/versions/top-bottom-bar/images/the-wedding-4a.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non"
+  },
+  {
+    "id": 3,
+    "title": "ACCOMODATION",
+    "url": "https://demo.dethemes.com/forever/versions/top-bottom-bar/images/accomodation.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non"
+  }
+]
