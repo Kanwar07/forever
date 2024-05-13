@@ -1,6 +1,4 @@
 import React from "react";
-import profile1 from "../../assets/profile1.jpg";
-import profile2 from "../../assets/profile2.jpg";
 import { motion } from "framer-motion";
 import logo2 from "../../assets/logo2.png";
 
@@ -38,7 +36,7 @@ const Introduction = () => {
           viewport={{ once: true }}
         >
           <motion.img
-            src={profile1}
+            src="https://demo.dethemes.com/forever/versions/top-bottom-bar/images/him2.jpg"
             alt="profile1"
             className="size-96 mr-4 transition-transform duration-1000 ease-in-out transform hover:scale-110"
           />
@@ -60,7 +58,7 @@ const Introduction = () => {
           viewport={{ once: true }}
         >
           <img
-            src={profile2}
+            src="https://demo.dethemes.com/forever/versions/top-bottom-bar/images/her2.jpg"
             alt="profile2"
             className="size-96 ml-4 transition-transform duration-1000 ease-in-out transform hover:scale-110"
           />
